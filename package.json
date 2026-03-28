@@ -1,0 +1,49 @@
+{
+  "name": "agent-browser-axi",
+  "version": "0.1.0",
+  "description": "AXI-compliant agent-browser wrapper — combined operations, TOON output, contextual suggestions",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunchenguid/agent-browser-axi.git"
+  },
+  "keywords": [
+    "browser",
+    "agent-browser",
+    "cli",
+    "agent",
+    "axi",
+    "toon"
+  ],
+  "bin": {
+    "agent-browser-axi": "dist/bin/agent-browser-axi.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx bin/agent-browser-axi.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "npm run build"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@toon-format/toon": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}
