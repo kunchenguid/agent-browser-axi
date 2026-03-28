@@ -1,10 +1,13 @@
-# agent-browser-axi
+<h1 align="center">agent-browser-axi</h1>
 
-[![CI](https://github.com/kunchenguid/agent-browser-axi/actions/workflows/ci.yml/badge.svg)](https://github.com/kunchenguid/agent-browser-axi/actions/workflows/ci.yml)
-[![Release](https://github.com/kunchenguid/agent-browser-axi/actions/workflows/release-please.yml/badge.svg)](https://github.com/kunchenguid/agent-browser-axi/actions/workflows/release-please.yml)
-![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-blue)
-[![X](https://img.shields.io/badge/X-@kunchenguid-black?logo=x)](https://x.com/kunchenguid)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/BW4aJuQhTf)
+<p align="center">
+  <a href="https://www.npmjs.com/package/agent-browser-axi"><img alt="npm" src="https://img.shields.io/npm/v/agent-browser-axi?style=flat-square" /></a>
+  <a href="https://github.com/kunchenguid/agent-browser-axi/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/kunchenguid/agent-browser-axi/ci.yml?style=flat-square&label=CI" /></a>
+  <a href="https://github.com/kunchenguid/agent-browser-axi/actions/workflows/release-please.yml"><img alt="Release" src="https://img.shields.io/github/actions/workflow/status/kunchenguid/agent-browser-axi/release-please.yml?style=flat-square&label=Release" /></a>
+  <a href="#"><img alt="Platform" src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-blue?style=flat-square" /></a>
+  <a href="https://x.com/kunchenguid"><img alt="X" src="https://img.shields.io/badge/X-@kunchenguid-black?style=flat-square" /></a>
+  <a href="https://discord.gg/BW4aJuQhTf"><img alt="Discord" src="https://img.shields.io/discord/1439901831038763092?style=flat-square&label=discord" /></a>
+</p>
 
 <h3 align="center">Highly agent-ergonomic browser automation</h3>
 
